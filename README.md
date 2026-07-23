@@ -85,8 +85,6 @@ StepOne/
 
 ## 📸 Screenshots
 
-> Add screenshots inside a `screenshots` folder and replace the image paths below.
-
 ### Home Page
 
 ![Home](screenshots/Home.png)
