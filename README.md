@@ -89,15 +89,23 @@ StepOne/
 
 ### Home Page
 
-![Home](screenshots/homepage.png)
+![Home](screenshots/Home.png)
 
 ### Registration Page
 
-![Registration](screenshots/registration.png)
+![Registration](screenshots/Participant_Login.png)
 
 ### Admin Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Admin.png)
+
+### Intercession Section
+
+![Dashboard](screenshots/Intercession.png)
+
+### Participant Login
+
+![Dashboard](screenshots/Participant_Login.png)
 
 ---
 
