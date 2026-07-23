@@ -1,0 +1,44 @@
+# Local database credentials and environment overrides
+config.php
+.env
+.env.*
+!.env.example
+
+# Deployment-only setup files (keep these out of the public repository)
+/install.php
+/schema.sql
+
+# User-uploaded files (retain empty directories in Git)
+uploads/*
+!uploads/.gitkeep
+!uploads/posters/
+uploads/posters/*
+!uploads/posters/.gitkeep
+
+# Private payment assets and bundled demo-font distribution
+/Assets/payment_qr_*.jpeg
+/Assets/sardin-demo/
+/Assets/sardin-demo.zip
+
+# PHP tooling and dependencies
+/vendor/
+/.phpunit.result.cache
+/phpunit.xml
+/phpunit.xml.dist
+
+# Editor and operating-system files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs, caches, and temporary files
+*.log
+*.cache
+*.tmp
+/cache/
+/tmp/
