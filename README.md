@@ -89,7 +89,7 @@ StepOne/
 
 ### Home Page
 
-![Home](screenshots/home.png)
+![Home](screenshots/homepage.png)
 
 ### Registration Page
 
